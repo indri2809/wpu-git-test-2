@@ -8,5 +8,9 @@
 <body>
     <h1>hello word!!</h1>
     <h1>pancake</h1>
+    <ul>
+        <li>A</li>
+        <li>B</li>
+    </ul>
 </body>
 </html>
